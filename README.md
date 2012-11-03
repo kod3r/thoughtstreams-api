@@ -6,7 +6,7 @@ Documentation and sample code for talking to the [ThoughtStreams](thoughtstreams
 API Key
 -------
 
-To use the API, you will need an API Key. You can view your API Key by looking under Settings > API Key.
+To use the API, you will need an API Key. You can view your API Key by looking under [Settings > API Key](https://thoughtstreams.io/account/api-key/).
 
 Posting to Inbox
 ----------------
