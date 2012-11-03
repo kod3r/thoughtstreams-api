@@ -1,7 +1,7 @@
 thoughtstreams-api
 ==================
 
-Documentation and sample code for talking to the [ThoughtStreams](thoughtstreams.io) API.
+Documentation and sample code for talking to the [ThoughtStreams](https://thoughtstreams.io/) API.
 
 API Key
 -------
